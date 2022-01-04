@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hi, my name is Philipp 👋
+## About me
 
-<!--
-**Descythe/Descythe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer(ing student) in Vienna, Austria. 
 
-Here are some ideas to get you started:
+Currently, I'm studying software and information engineering at the TU Vienna (3rd semester) with focus on the basics of software engineering, databases, operating system, algorithms and datastructures, programming paradigms (procedural, functional, object oriented and declarative), distributed systems, security and project management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Technologies
+
+```javascript
+let technologies = {
+    code: ["HTML", "CSS", "JavaScript", "PHP", "Java", "C"],
+    frameworks: {
+        backend: {
+            js: ["Node", "Express", "Socket.io"],
+        },
+        frontend: {
+            js: ["React", "Redux", "Vue", "Vuex", "Angular"]
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        databases: ["Oracle", "MySQL"],
+    },
+    currentFocus: "Frontend Web-Development",
+};
+```
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/philipp-holzer-307397194/)
+- [Xing](https://www.xing.com/profile/Philipp_Holzer7/cv)
+- [Descythe#1312]() on Discord
+<!---
+    - [Twitter (comming soon)]()
+    - [Instagram (comming soon)]()
 -->
