@@ -29,8 +29,8 @@ let technologies = {
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/philipp-holzer-307397194/)
 - [Xing](https://www.xing.com/profile/Philipp_Holzer7/cv)
+- [@holzerphilipp](https://twitter.com/holzerphilipp) on Twitter
 - [Descythe#1312]() on Discord
 <!---
-    - [Twitter (comming soon)]()
     - [Instagram (comming soon)]()
 -->
