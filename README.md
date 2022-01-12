@@ -33,10 +33,7 @@ let technologies = {
 
 ## Contact
 
--   [LinkedIn](https://www.linkedin.com/in/philipp-holzer-307397194/)
--   [Xing](https://www.xing.com/profile/Philipp_Holzer7/cv)
--   [@holzerphilipp](https://twitter.com/holzerphilipp) on Twitter
--   [Descythe#1312]() on Discord
-<!---
-    - [Instagram (comming soon)]()
--->
+-   [<img align="left" height="22px" src="./icons/linkedin.svg" />](https://www.linkedin.com/in/philipp-holzer-307397194/)
+-   [<img align="left" height="22px" src="./icons/xing.svg" />](https://www.xing.com/profile/Philipp_Holzer7/cv)
+-   [<img align="left" height="22px" src="./icons/twitter.svg" />](https://twitter.com/holzerphilipp)
+-   [<img align="left" height="22px" src="./icons/spotify.svg" />]()
