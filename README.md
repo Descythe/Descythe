@@ -17,23 +17,24 @@ let technologies = {
     code: ["HTML", "CSS", "JavaScript", "PHP", "Java", "C"],
     frameworks: {
         backend: {
-            js: ["Node", "Express", "Socket.io"],
+            java: ["Spring"],
+            js: ["Node", "Express", "Socket.IO", "Mongoose"],
         },
         frontend: {
-            js: ["React", "Redux", "Vue", "Vuex", "Angular"],
+            js: ["React", "Redux", "Next", "Vue", "Vuex", "Nuxt", "Angular"],
         },
-        mobileApp: {
+        mobile: {
             native: ["Android Development"],
         },
-        databases: ["Oracle", "MySQL"],
+        databases: ["Oracle", "MySQL", "MongoDB"],
     },
-    currentFocus: "Frontend Web-Development",
+    currentFocus: "Web-Development",
 };
 ```
 
-## Contact
+## Contact / Social Media
 
 [<img align="left" height="22px" src="./icons/linkedin.svg" />](https://www.linkedin.com/in/philipp-holzer-307397194/)
 [<img align="left" height="22px" src="./icons/xing.svg" />](https://www.xing.com/profile/Philipp_Holzer7/cv)
 [<img align="left" height="22px" src="./icons/twitter.svg" />](https://twitter.com/holzerphilipp)
-[<img align="left" height="22px" src="./icons/spotify.svg" />]()
+[<img height="22px" src="./icons/spotify.svg" />]()
