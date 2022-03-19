@@ -32,9 +32,20 @@ let technologies = {
 };
 ```
 
-## Contact / Social Media
+## Contact
 
 [<img align="left" height="22px" src="./icons/linkedin.svg" />](https://www.linkedin.com/in/philipp-holzer-307397194/)
-[<img align="left" height="22px" src="./icons/xing.svg" />](https://www.xing.com/profile/Philipp_Holzer7/cv)
+[<img height="22px" src="./icons/xing.svg" />](https://www.xing.com/profile/Philipp_Holzer7)
+
+## Social Media
+
+[<img align="left" height="22px" src="./icons/youtube.svg" />]()
+[<img align="left" height="22px" src="./icons/twitch.svg" />]()
+
 [<img align="left" height="22px" src="./icons/twitter.svg" />](https://twitter.com/holzerphilipp)
-[<img height="22px" src="./icons/spotify.svg" />]()
+[<img align="left" height="22px" src="./icons/reddit.svg" />]()
+[<img align="left" height="22px" src="./icons/discord.svg" />](Descythe#1312)
+
+[<img align="left" height="22px" src="./icons/spotify.svg" />]()
+[<img align="left" height="22px" src="./icons/myanimelist.svg" />]()
+[<img align="left" height="22px" src="./icons/anilist.svg" />](https://anilist.co/user/Descythe317)
