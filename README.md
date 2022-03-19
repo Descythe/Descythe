@@ -39,13 +39,13 @@ let technologies = {
 
 ## Social Media
 
-[<img align="left" height="22px" src="./icons/youtube.svg" />]()
-[<img align="left" height="22px" src="./icons/twitch.svg" />]()
+[<img align="left" height="22px" src="./icons/youtube.svg" />](https://www.youtube.com/channel/UC1CdnDYJN2KrtzJ3Xb94N9A)
+[<img align="left" height="22px" src="./icons/twitch.svg" />](https://www.twitch.tv/descythe317)
 
 [<img align="left" height="22px" src="./icons/twitter.svg" />](https://twitter.com/holzerphilipp)
-[<img align="left" height="22px" src="./icons/reddit.svg" />]()
-[<img align="left" height="22px" src="./icons/discord.svg" />](Descythe#1312)
+[<img align="left" height="22px" src="./icons/reddit.svg" />](https://www.reddit.com/user/Descythe317)
+[<img align="left" height="22px" src="./icons/discord.svg" />](https://Descythe#1312)
 
 [<img align="left" height="22px" src="./icons/spotify.svg" />]()
-[<img align="left" height="22px" src="./icons/myanimelist.svg" />]()
+[<img align="left" height="22px" src="./icons/myanimelist.svg" />](https://myanimelist.net/profile/Descythe317)
 [<img align="left" height="22px" src="./icons/anilist.svg" />](https://anilist.co/user/Descythe317)
