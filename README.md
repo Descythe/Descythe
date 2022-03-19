@@ -8,7 +8,7 @@
 
 I'm a software engineer(ing student) in Vienna, Austria.
 
-Currently, I'm studying software and information engineering at the TU Vienna (3rd semester) with focus on the basics of software engineering, databases, operating system, algorithms and datastructures, programming paradigms (procedural, functional, object oriented and declarative), distributed systems, security and project management.
+Currently, I'm studying software and information engineering at the TU Vienna (4th semester) with focus on the basics of software engineering, databases, operating system, algorithms and datastructures, programming paradigms (procedural, functional, object oriented and declarative), distributed systems, security and project management.
 
 ## Technologies
 
