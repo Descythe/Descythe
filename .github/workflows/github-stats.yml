@@ -1,0 +1,42 @@
+name: Generate Stats Images
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily at 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download github-stats
+        run: |
+          curl -fsSL -o github-stats https://github.com/jstrieb/github-stats/releases/download/2.0.1/github-stats_x86_64-linux
+          chmod +x github-stats
+
+      - name: Generate images
+        run: ./github-stats
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          # This profile repo only holds the README, so keep it out of the stats
+          EXCLUDE_REPOS: Descythe/Descythe
+          SILENT: "true"
+          MAX_RETRIES: 5
+
+      # Images live on a separate "stats" branch that holds a single commit,
+      # so daily updates never clutter the main history.
+      - name: Publish to stats branch
+        run: |
+          git init -q -b stats out
+          mv overview.svg languages.svg out/
+          cd out
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -qm "Update stats images"
+          git push -qf "https://x-access-token:${TOKEN}@github.com/${{ github.repository }}" stats
+        env:
+          TOKEN: ${{ github.token }}

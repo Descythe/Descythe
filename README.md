@@ -1,18 +1,9 @@
 ## Hi, my name is Philipp 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Descythe/Descythe/main/profile-summary-card-output/github_dark/0-profile-details.svg">
-  <img alt="GitHub profile details and contributions" src="https://raw.githubusercontent.com/Descythe/Descythe/main/profile-summary-card-output/github/0-profile-details.svg">
-</picture>
-<br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Descythe/Descythe/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <img alt="Top languages by repository" height="203px" src="https://raw.githubusercontent.com/Descythe/Descythe/main/profile-summary-card-output/github/1-repos-per-language.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Descythe/Descythe/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
-  <img alt="Top languages by commit" height="203px" src="https://raw.githubusercontent.com/Descythe/Descythe/main/profile-summary-card-output/github/2-most-commit-language.svg">
-</picture>
+![GitHub statistics](https://github.com/Descythe/Descythe/blob/stats/overview.svg#gh-dark-mode-only)
+![GitHub statistics](https://github.com/Descythe/Descythe/blob/stats/overview.svg#gh-light-mode-only)
+![Languages used](https://github.com/Descythe/Descythe/blob/stats/languages.svg#gh-dark-mode-only)
+![Languages used](https://github.com/Descythe/Descythe/blob/stats/languages.svg#gh-light-mode-only)
 
 ## About me
 
