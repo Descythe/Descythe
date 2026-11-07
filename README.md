@@ -6,31 +6,19 @@
 
 ## About me
 
-I'm a software engineer(ing student) in Vienna, Austria.
+I'm a software engineering professional based in Vienna, Austria, with a background in computer science from TU Wien and professional experience at Wiener Linien.
 
-Currently, I'm studying software and information engineering at the TU Vienna (4th semester) with focus on the basics of software engineering, databases, operating system, algorithms and datastructures, programming paradigms (procedural, functional, object oriented and declarative), distributed systems, security and project management.
+I'm particularly interested in **software architecture, clean code, and building reliable, maintainable systems**. I enjoy understanding how complex systems work, solving technical problems, and continuously improving my approach to software development.
 
-## Technologies
+My interests extend beyond writing code to software quality, user experience, and the processes that help teams build better software.
 
-```javascript
-let technologies = {
-    code: ["HTML", "CSS", "JavaScript", "PHP", "Java", "C"],
-    frameworks: {
-        backend: {
-            java: ["Spring"],
-            js: ["Node", "Express", "Socket.IO", "Mongoose"],
-        },
-        frontend: {
-            js: ["React", "Redux", "Next", "Vue", "Vuex", "Nuxt", "Angular"],
-        },
-        mobile: {
-            native: ["Android Development"],
-        },
-        databases: ["Oracle", "MySQL", "MongoDB"],
-    },
-    currentFocus: "Web-Development",
-};
-```
+- **Background:** Software Engineering at TU Wien
+- **Professional experience:** Wiener Linien
+- **Areas of interest:** Software Architecture, Software Engineering, DevOps & UX
+- **Certifications:** iSAQB Foundation Level, UXQCC Foundation Level, ITIL Foundation & Six Sigma Green Belt
+- **Location:** Vienna, Austria
+
+## Current projects
 
 ## Contact
 
@@ -46,7 +34,3 @@ let technologies = {
 [<img align="left" height="22px" src="./icons/steam.svg" />](https://steamcommunity.com/profiles/76561198278569598/)
 [<img align="left" height="22px" src="./icons/discord.svg" />](https://Descythe#1312)
 [<img align="left" height="22px" src="./icons/twitch.svg" />](https://www.twitch.tv/descythe317)
-
-[<img align="left" height="22px" src="./icons/spotify.svg" />]()
-[<img align="left" height="22px" src="./icons/myanimelist.svg" />](https://myanimelist.net/profile/Descythe317)
-[<img align="left" height="22px" src="./icons/anilist.svg" />](https://anilist.co/user/Descythe317)
