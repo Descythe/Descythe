@@ -14,7 +14,8 @@ jobs:
     steps:
       - name: Download github-stats
         run: |
-          curl -fsSL -o github-stats https://github.com/jstrieb/github-stats/releases/download/2.0.1/github-stats_x86_64-linux
+          # Retry, since GitHub's release downloads occasionally fail temporarily
+          curl -fsSL --retry 5 --retry-all-errors --retry-delay 10 -o github-stats https://github.com/jstrieb/github-stats/releases/download/2.0.1/github-stats_x86_64-linux
           chmod +x github-stats
 
       - name: Generate images
